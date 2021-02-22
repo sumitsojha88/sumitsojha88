@@ -23,7 +23,6 @@
 <a href="https://linkedin.com/in/sumitsojha8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumitsojha8" height="30" width="40" /></a>
 <a href="https://fb.com/sumit.ojha.9480" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sumit.ojha.9480" height="30" width="40" /></a>
 <a href="https://instagram.com/sumitsojha8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sumitsojha8" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sumitsojha88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sumitsojha88" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sumitsojha8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sumitsojha8" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sumitojha2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sumitojha2" height="30" width="40" /></a>
 </p>
