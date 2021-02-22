@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/greatsojha88" target="blank"><img src="https://img.shields.io/twitter/follow/greatsojha88?logo=twitter&style=for-the-badge" alt="greatsojha88" /></a> </p>
 
-
+<img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/>
 
 - 🔭 I’m currently working on [Ivara App](https://github.com/IVARA-Application/IV-APP-FRONTEND-TEAM)
 
