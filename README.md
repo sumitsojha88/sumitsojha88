@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/greatsojha88" target="blank"><img src="https://img.shields.io/twitter/follow/greatsojha88?logo=twitter&style=for-the-badge" alt="greatsojha88" /></a> </p>
 
+<img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>&nbsp;&nbsp;
+ <br/>
+
 - 🔭 I’m currently working on [Quiz App](https://github.com/sumitsojha88/Puzzle_Quiz)
 
 - 👯 I’m looking to collaborate on [Quiz App](https://github.com/sumitsojha88/Puzzle_Quiz)
