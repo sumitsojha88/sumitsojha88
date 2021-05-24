@@ -16,7 +16,7 @@
 
 - 💬 Talk to me about cricket, Investment,Development & startups.
 
-- 🌐 Visit my [porfolio website](https://www.sumitsojha8.co/) for complete background and contact.
+- 🌐 Visit my [portfolio website](https://www.sumitsojha8.co/) for complete background and contact.
 
 - ⚡ Fun fact **Foodie and Chai Over Coffee**
 
