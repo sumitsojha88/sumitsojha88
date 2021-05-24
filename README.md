@@ -24,11 +24,9 @@
 
 
 
-<hr/>
-<br/>
 
 
-## 🛠️ My favorite tools
+<h2 align="center"> 🛠️ My favorite tools </h2>
 
 ### 👨‍💻 Programming languages
 
@@ -84,7 +82,8 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
  
  
-## &#x1f4c8; GitHub Stats
+ 
+ <h2 align="center"> &#x1f4c8; GitHub Stats </h2>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=sumitsojha88&show_icons=true&hide_border=false&theme=gotham" width="48%" align="right" >
 
