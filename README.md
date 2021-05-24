@@ -1,32 +1,33 @@
 <h1 align="center">Hi 👋, I'm Sumit Ojha</h1>
 <h3 align="center">A Pre-Final Student || Mobile App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsojha88&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsojha88" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumitsojha88&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsojha88" /> </p>
 
 <p align="left"> <a href="https://twitter.com/greatsojha88" target="blank"><img src="https://img.shields.io/twitter/follow/greatsojha88?logo=twitter&style=for-the-badge" alt="greatsojha88" /></a> </p>
 
 <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>&nbsp;&nbsp;
  <br/>
-
-- 🔭 I’m currently working on [Quiz App](https://github.com/sumitsojha88/Puzzle_Quiz)
+ 
+ - :school: I'm [Sumit Ojha](https://keshavsingh4522.github.io/) currently a Third Year ECE student at <a href="https://academics.mnnit.ac.in/new">@MNNIT  </a>
 
 - 👯 I’m looking to collaborate on [Quiz App](https://github.com/sumitsojha88/Puzzle_Quiz)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumitsojha88](https://github.com/sumitsojha88)
 
-- 📫 How to reach me **sumitsojha8@gmail.com**
+- 💬 Talk to me about cricket, Investment,Development & startups.
+
+- 🌐 Visit my [porfolio website](https://www.sumitsojha8.co/) for complete background and contact.
 
 - ⚡ Fun fact **Foodie and Chai Over Coffee**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/greatsojha88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="greatsojha88" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumitsojha8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumitsojha8" height="30" width="40" /></a>
-<a href="https://fb.com/sumit.ojha.9480" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sumit.ojha.9480" height="30" width="40" /></a>
-<a href="https://instagram.com/sumitsojha8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sumitsojha8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumitsojha8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sumitsojha8" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sumitojha2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sumitojha2" height="30" width="40" /></a>
-</p>
+
+
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/sumitsojha88/)](https://github.com/sumitsojha88/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/sumitsojha8)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumitsojha8@gmail.com)](mailto:sumitsojha8@gmail.com)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/sumitojha2)](https://auth.geeksforgeeks.org/user/sumitojha2)
+<a href="https://www.instagram.com/sumitsojha8/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=20></a>
 
 ## 🛠️ My favorite tools
 
@@ -86,6 +87,9 @@
 
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsojha88&theme=gotham" width="48%" >
+
+
+<a href='https://github.com/sumitsojha88/github-stats-transparent'>
 
 
 
