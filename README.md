@@ -21,6 +21,13 @@
 - ⚡ Fun fact **Foodie and Chai Over Coffee**
 
 
+
+
+
+<hr/>
+<br/>
+
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -70,7 +77,11 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+<hr/>
+<br/>
 
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
  
  
 ## &#x1f4c8; GitHub Stats
@@ -82,6 +93,8 @@
 
 
 <a href='https://github.com/sumitsojha88/github-stats-transparent'>
+ 
+</details>
 
 
 <h3 align="left">Connect with me:</h3>
