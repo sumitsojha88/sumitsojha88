@@ -10,7 +10,7 @@
  
  - :school: I'm [Sumit Ojha](https://github.com/sumitsojha88) currently a Third Year ECE student at <a href="https://academics.mnnit.ac.in/new">@MNNIT  </a>
 
-- 👯 I’m looking to collaborate on [Placement Preparationg](https://github.com/sumitsojha88/Placement-Preparation)
+- 👯 I’m looking to collaborate on [Placement Preparation](https://github.com/sumitsojha88/Placement-Preparation)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumitsojha88](https://github.com/sumitsojha88)
 
