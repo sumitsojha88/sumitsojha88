@@ -93,6 +93,15 @@
 
 <a href='https://github.com/sumitsojha88/github-stats-transparent'>
  
+ 
+ <h2 align="center">👨‍💻 Repositories Currently Working On 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/sumitsojha88/Placement-Preparation" title="Placement-Preparation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitsojha88&repo=Placement-Preparation&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="right" href="https://github.com/piyushn28/CallEE" title="Call-E"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushn28&repo=CallEE&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
 </details>
 
 
