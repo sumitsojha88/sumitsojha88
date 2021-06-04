@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋/h1>
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">A Pre-Final Student || Mobile App Developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sumitsojha88&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsojha88" /> </p>
