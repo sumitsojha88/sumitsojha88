@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumitsojha88](https://github.com/sumitsojha88)
 
-- 💬 Talk to me about cricket, Investment,Development & startups.
+- 💬 Talk to me about Sports, Investment,Development & startups.
 
 - 🌐 Visit my [portfolio website](https://www.sumitsojha8.co/) for complete background and contact.
 
