@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 </h1>
-<h3 align="center">A Final Year Student || Mobile App Developer</h3>
+<h3 align="center"> go-tripper || Mobile App Developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sumitsojha88&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsojha88" /> </p>
 
@@ -8,7 +8,7 @@
 <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>&nbsp;&nbsp;
  <br/>
  
- - :school: I'm [Sumit Ojha](https://github.com/sumitsojha88) 2k22 Passout in ECE from<a href="https://academics.mnnit.ac.in/new"> MNNIT  </a>
+ - :school: I'm [Sumit Ojha](https://github.com/sumitsojha88) 2k22 Passout in ECE from [MNNIT](https://academics.mnnit.ac.in/new) and currently working in [MakeMyTrip](https://www.makemytrip.com/) </a>
 
 - 👯 I’m looking to collaborate on [Placement Preparation](https://github.com/sumitsojha88/Placement-Preparation)
 
