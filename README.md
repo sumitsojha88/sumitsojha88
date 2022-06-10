@@ -8,7 +8,7 @@
 <img alt="Coding Gif" src="https://github.com/saumya66/saumya66/blob/main/assets/giphy.gif" align="right"/>&nbsp;&nbsp;
  <br/>
  
- - :school: I'm [Sumit Ojha](https://github.com/sumitsojha88) 2k22 Passout in ECE from<a href="https://academics.mnnit.ac.in/new">MNNIT  </a>
+ - :school: I'm [Sumit Ojha](https://github.com/sumitsojha88) 2k22 Passout in ECE from<a href="https://academics.mnnit.ac.in/new"> MNNIT  </a>
 
 - 👯 I’m looking to collaborate on [Placement Preparation](https://github.com/sumitsojha88/Placement-Preparation)
 
